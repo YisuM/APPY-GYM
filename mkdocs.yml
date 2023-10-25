@@ -1,4 +1,5 @@
 site_name: Python Gym
+site_dir: docs
 nav:
   - Inicio: index.md
   - Acerca de: about.md
